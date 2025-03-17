@@ -1,4 +1,6 @@
 theme: minima
 title: Mon Site d’Images
 description: Ma galerie de dessins avec Jekyll et Cloudinary
-
+navbar_links:
+  Accueil: index.md
+  Livre E: livre_E.md
