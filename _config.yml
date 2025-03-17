@@ -1,6 +1,6 @@
 theme: minima
-title: Mon Site d’Images
-description: Ma galerie de dessins avec Jekyll et Cloudinary
+title: Archeo Discret Library
+description: books of things for tatoo @archeo_discret
 navbar_links:
   Accueil: index.md
   Livre E: livre_E.md
