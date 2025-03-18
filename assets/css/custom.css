@@ -3,4 +3,19 @@ body {
     background-size: contain;  /* Ajuste le GIF à sa vraie taille */
     background-position: center;
 }
+/* Empêcher les images de prendre toute la largeur */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+/* Corriger le fond GIF */
+body {
+    background: url('/assets/images/background.gif') repeat;
+    background-size: contain;  /* Ajuste la taille */
+    background-position: center;
+}
+
 
