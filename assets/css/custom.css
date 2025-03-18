@@ -1,6 +1,6 @@
 body {
-    background: url('/assets/images/assets/images/ciel etoilé gif.gif') repeat;
-    background-size: contain;  /* Ajuste le GIF à sa vraie taille */
+    background: url('https://archeodiscret.github.io/assets/images/ciel etoilé gif.gif.gif') repeat;
+    background-size: cover;
     background-position: center;
 }
 /* Empêcher les images de prendre toute la largeur */
