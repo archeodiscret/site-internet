@@ -4,3 +4,13 @@ description: books of things for tatoo @archeo_discret
 navbar_links:
   Accueil: index.md
   Livre E: livre_E.md
+collections:
+  collection_a:
+    output: true
+defaults:
+  - scope:
+      path: "_collection_a"
+    values:
+      layout: image
+      permalink: "/collection_a/:name/"
+
