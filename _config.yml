@@ -4,6 +4,7 @@ description: books of things for tatoo @archeo_discret
 navbar_links:
   Accueil: index.md
   Livre E: livre_E.md
+  Livre 3: livre_3.md
 collections:
   collection_a:
     output: true
