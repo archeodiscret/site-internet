@@ -1,6 +1,3 @@
-# Livre E
-2024
-
 ![page 1](https://res.cloudinary.com/dqt8qhx31/image/upload/v1742829884/livre_E1-min_tgelu3.png)
 ![page 2](https://res.cloudinary.com/dqt8qhx31/image/upload/v1742829604/livre_E2-min_ecayku.jpg)
 ![page 3](https://res.cloudinary.com/dqt8qhx31/image/upload/v1742829611/livre_E3-min_j4zsn3.jpg)
@@ -13,5 +10,3 @@
 ![page 10](https://res.cloudinary.com/dqt8qhx31/image/upload/v1742829608/livre_E10-min_dzxkye.jpg)
 ![page 11](https://res.cloudinary.com/dqt8qhx31/image/upload/v1742829620/livre_E11-min_qkxj0f.jpg)
 ![page 12](https://res.cloudinary.com/dqt8qhx31/image/upload/v1742829888/livre_E12-min_y7zntw.png)
-![page 13](
-
